@@ -1,2 +1,2 @@
 # porsuksimal.github.io-
-porsuksimal Homepage
+ders için örnek site oluşturma deposudur.
