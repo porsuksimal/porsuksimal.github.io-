@@ -1,2 +1,2 @@
 # porsuksimal.github.io-
-ders için örnek site oluşturma deposudur.
+Şimal Porsuk ADS-352
